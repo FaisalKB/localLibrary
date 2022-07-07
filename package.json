@@ -1,7 +1,7 @@
 {
   "name": "project-local-library",
   "version": "1.0.0",
-  "description": "",
+  "description": "A website for my local library.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -17,7 +17,7 @@
     "test:solution": "npm run docker:build && npm run docker:test"
   },
   "keywords": [],
-  "author": "",
+  "author": "Faisal Barakat",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
